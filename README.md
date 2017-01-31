@@ -33,7 +33,7 @@
 
 ## Projetos
 
-**Diretor**:
+**Diretor**
 
 :point_right: [Filipe Lima](https://www.facebook.com/filipe.lima.524)
 :octocat: [lipeflorentino](https://github.com/lipeflorentino)
@@ -71,7 +71,7 @@
 
 ## Marketing
 
-**Diretor**:
+**Diretor**
 
 :point_right: [Nicholas Quintella](https://www.facebook.com/nicholas.quintella)
 :octocat: [lice23](https://github.com/lice23)
@@ -82,7 +82,7 @@
 :octocat: [carolinaransatto](https://github.com/carolinaransatto)
 
 :point_right: [Helena Belay](https://www.facebook.com/helena.belay)
-:octocat: [#](https://github.com/#)
+:octocat: [helenabelay](https://github.com/helenabelay)
 
 :point_right: [Daniel Casadio](https://www.facebook.com/krzndc)
 :octocat: [danielcasadio](https://github.com/danielcasadio)
@@ -94,7 +94,7 @@
 
 ## GP
 
-**Diretor**:
+**Diretor**
 
 :point_right: [Gustavo Pergola](https://www.facebook.com/lvsshinobi)
 :octocat: [vipkry](https://github.com/Vipkry)
@@ -112,7 +112,7 @@
 
 ## Financeiro
 
-**Diretor**:
+**Diretor**
 
 :point_right: [Lucas Vieira](https://www.facebook.com/lvsshinobi)
 :octocat: [kiozy](https://github.com/kiozy)
